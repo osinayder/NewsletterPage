@@ -3,7 +3,10 @@
 <p align="center">Esse projeto é uma página Web para inscrição em uma Newsletter.</p>
 <p align="center">Você pode testar por aqui: https://osinayder-newsletter.netlify.app</p>
 
-<p align="center"><a href="#tecnologias">Tecnologias</a> • <a href="#autor">Autor</a></p>
+<p align="center">
+ <a href="#tecnologias">Tecnologias</a>
+ <a href="#autor">Autor</a>
+</p>
 
 ---
 
