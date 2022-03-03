@@ -3,18 +3,14 @@
 <p align="center">Esse projeto é uma página Web para inscrição em uma Newsletter.</p>
 <p align="center">Você pode testar por aqui: https://osinayder-newsletter.netlify.app</p>
 
-<p align="center">
- 
- <a href="#tecnologias">Tecnologias</a> •
- <a href="#autor">Autor</a>
-</p>
+<p align="center"><a href="#tecnologias">Tecnologias</a> • <a href="#autor">Autor</a></p>
 
 ---
 
 <br>
 
 <h1 align="center">
-  <img alt="WeatherApp" title="WeatherApp" src="/imgs/readme.gif" height="425" />
+  <img alt="Newsletter" title="Newsletter" src="/imgs/readme.gif" height="425" />
 
 </h1>
 
