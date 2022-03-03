@@ -14,8 +14,11 @@
 
 <h1 align="center">
   <img alt="Newsletter" title="Newsletter" src="/imgs/readme.gif" height="425" />
-
 </h1>
+
+### Sobre
+
+Após finalizar um curso de HTML e CSS fiz essa página para aplicar meus novos conhecimentos!
 
 ### Tecnologias
 
@@ -23,8 +26,23 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 - [HTML]
 - [CSS]
+- [CORELDRAW]
 
 ---
+
+### Processo
+
+Criação da arte da logo "OSINAYDER" com o uso do programa COREL DRAW:
+
+<h1 align="center">
+  <img alt="Logo Designing" title="OSINAYDER Designing" src="/imgs/logo-design.gif" height="425" />
+</h1>
+
+Criação da Página de recebimento do formulário
+
+<h1 align="center">
+  <img alt="Coding" title="Coding" src="/imgs/coding.gif" height="425" />
+</h1>
 
 ### Autor
 
