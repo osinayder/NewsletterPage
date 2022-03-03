@@ -40,6 +40,10 @@ Criação da arte da logo "OSINAYDER" com o uso do programa COREL DRAW:
   <img alt="Logo Designing" title="OSINAYDER Designing" src="/imgs/logo-design.gif" height="425" />
 </h1>
 
+<h1 align="center">
+  <img alt="Logo OSINAYDER" title="OSINAYDER Logo" src="/imgs/logo.jpg" height="425" />
+</h1>
+
 Criação da Página de recebimento do formulário
 
 <h1 align="center">
