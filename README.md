@@ -56,4 +56,4 @@ Criação da Página de recebimento do formulário
 
 <img alt="Sinayder" title="O Sinayder" src="https://avatars.githubusercontent.com/u/72233892?v=4" height="100" width="100" />
 
-Made with 💜 by O Sinayder 👋
+Made by O Sinayder 👋
