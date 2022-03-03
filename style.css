@@ -1,0 +1,153 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-family: Poppins;
+  font-size: 62.5%;
+}
+
+body {
+  line-height: 1;
+  font-weight: 400;
+  background-color: #0d0510;
+}
+
+/* HEADER AND NAV SECTION */
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  height: 10rem;
+  padding: 0 8rem;
+}
+
+.logo {
+  height: 4.2rem;
+}
+
+.nav-list {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  gap: 4.8rem;
+  color: #ffffff;
+}
+
+.nav-link:link,
+.nav-link:visited {
+  display: inline-block;
+  text-decoration: none;
+  color: #ffffff;
+  font-weight: 500;
+  font-size: 1.8rem;
+  transition: 0.3s all;
+}
+
+.nav-link:hover,
+.nav-link:active {
+  color: #862e9c;
+}
+
+.nav-selected:link,
+.nav-selected:visited {
+  color: #862e9c;
+}
+
+.btn,
+.btn:link,
+.btn:visited {
+  background-color: #862e9c;
+  color: #ffffff;
+  transition: 0.3s all;
+  cursor: pointer;
+  padding: 1.2rem;
+  font-size: 1.8rem;
+  border: none;
+  border-radius: 10px;
+  font-family: inherit;
+  text-align: center;
+  text-decoration: none;
+}
+
+.btn:hover,
+.btn:active {
+  background-color: #501c5e;
+  color: #ffffff;
+}
+
+/* CONTENT SECTION */
+
+main {
+  display: grid;
+  padding: 3rem 8rem;
+  grid-template-columns: 1fr 1fr;
+  gap: 4.8rem;
+  height: 80vh;
+  max-width: 130rem;
+  margin: 0 auto;
+}
+
+aside {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: white;
+}
+
+.title {
+  font-size: 5.2rem;
+  color: #ffffff;
+  line-height: 1.05;
+}
+
+span {
+  color: #862e9c;
+}
+
+.description {
+  font-size: 2rem;
+  line-height: 1.6;
+  margin-top: 1.4rem;
+  margin-bottom: 3.2rem;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 1.6rem;
+  font-size: 1.6rem;
+}
+
+.form label {
+  display: block;
+  font-size: 1.6rem;
+  margin-bottom: 1.2rem;
+  line-height: 2;
+}
+.form input,
+.form select {
+  width: 100%;
+  padding: 1.2rem;
+  font-size: 1.8rem;
+  border: none;
+  border-radius: 10px;
+}
+
+.form input::placeholder {
+  color: #adb5bd;
+}
+
+article {
+  display: flex;
+  justify-content: center;
+}
+
+/* Submited PAGE */
+
+.title-submited {
+  margin-bottom: 4.2rem;
+}

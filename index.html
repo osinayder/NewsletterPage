@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="stylesheet" href="style.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap"
+      rel="stylesheet"/>
+
+    <title>O Sinayder</title>
+  </head>
+
+  <body>
+    <header class="header">
+      <a href="#">
+        <img class="logo" 
+        alt="Osinayder logo" 
+        src="/osinayder-logo2.png"
+        />
+      </a>
+      <nav class="nav">
+        <ul class="nav-list">
+          <li><a class="nav-link" href="#">Início</a></li>
+          <li><a class="nav-link" href="#">Sobre</a></li>
+          <li><a class="nav-link nav-selected" href="#">Newsletter</a></li>
+          <li><a class="nav-link" href="#">Contato</a></li>           
+          <li><a class="nav-link btn" href="#">Faça sua Inscrição</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <main>
+      <aside>
+        <h1 class="title"><span>Inscreva-se agora</span></h1>
+        <h1 class="title">na Newsletter</h1>
+        <p class="description">
+          Assine e receba semanalmente as notícias que você não
+          pode perder, diretamente no seu e-mail! </br> É rápido. É fácil. É de
+          graça.
+        </p>
+        <form action="/submited.html" class="form" name="newsletter" data-netlify="true">
+          <div>
+            <label>Nome Completo <input type="text" name="nome" placeholder="Eduardo Sinayder"></label>
+          </div>   
+          <div>
+            <label>Endereço de email<input type="text" name="email" placeholder="eu@exemplo.com"></label>
+          </div>
+          <button type="submit" class="btn">Cadastre-se agora</button>
+        </form>
+      </aside>
+
+      <article>
+        <img
+         src="photo.svg" 
+         width="500px" 
+         alt="ilustração de uma mulher ao lado de uma carta de e-mail"
+        />
+      </article>
+    </main>
+  </body>
+</html>
