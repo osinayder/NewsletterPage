@@ -1,5 +1,9 @@
 <h1 align="center">Newsletter Page</h1>
 
+<h1 align="center">
+  <img alt="Newsletter" title="Newsletter" src="/imgs/readme.gif" height="425" />
+</h1>
+
 <p align="center">Esse projeto é uma página Web para inscrição em uma Newsletter.</p>
 <p align="center">Você pode testar por aqui: https://osinayder-newsletter.netlify.app</p>
 
@@ -12,13 +16,11 @@
 
 <br>
 
-<h1 align="center">
-  <img alt="Newsletter" title="Newsletter" src="/imgs/readme.gif" height="425" />
-</h1>
-
 ### Sobre
 
 Após finalizar um curso de HTML e CSS fiz essa página para aplicar meus novos conhecimentos!
+
+---
 
 ### Tecnologias
 
@@ -43,6 +45,8 @@ Criação da Página de recebimento do formulário
 <h1 align="center">
   <img alt="Coding" title="Coding" src="/imgs/coding.gif" height="425" />
 </h1>
+
+---
 
 ### Autor
 
