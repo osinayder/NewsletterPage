@@ -8,6 +8,7 @@
 <p align="center">Você pode testar por aqui: https://osinayder-newsletter.netlify.app</p>
 
 <p align="center">
+ <a href="#sobre">Sobre •</a> 
  <a href="#tecnologias">Tecnologias •</a> 
  <a href="#autor">Autor</a>
 </p>
