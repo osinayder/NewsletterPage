@@ -1,0 +1,90 @@
+/*********************/
+/* Abaixo de 1223px*/
+/*********************/
+
+@media (max-width: 77em) {
+  .logo {
+    height: 4rem;
+  }
+
+  .title {
+    font-size: 4.7rem;
+  }
+
+  .description {
+    font-size: 1.8rem;
+  }
+
+  .nav-link:link,
+  .nav-link:visited {
+    font-size: 1.7rem;
+  }
+}
+
+/*********************/
+/* Abaixo de 1120px*/
+/*********************/
+
+@media (max-width: 70em) {
+  html {
+    font-size: 50%;
+  }
+
+  .img {
+    width: 450px;
+  }
+
+  /* main {
+    padding: 0 64px;
+  } */
+}
+
+/*********************/
+/* Abaixo de 960px*/
+/*********************/
+@media (max-width: 60em) {
+  html {
+    font-size: 43.75%;
+  }
+}
+
+/*********************/
+/* Abaixo de 800px*/
+/*********************/
+
+@media (max-width: 50em) {
+  html {
+    font-size: 37.5%;
+  }
+
+  .img {
+    width: 300px;
+  }
+}
+
+/*********************/
+/* Abaixo de 640px*/
+/*********************/
+
+@media (max-width: 40em) {
+  html {
+    font-size: 31.25%;
+  }
+
+  .img {
+    width: 250px;
+  }
+}
+/*********************/
+/* Abaixo de 560px*/
+/*********************/
+
+@media (max-width: 35em) {
+  html {
+    font-size: 25%;
+  }
+
+  .img {
+    width: 250px;
+  }
+}
